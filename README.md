@@ -29,7 +29,7 @@
     ✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
     ✓
 
-[![Maxx](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/MaxxRiderz) 👇
+[![Maxx](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://dashboard.heroku.com/new?template=https://github.com/amittestbot/Leech-Pro/tree/master) 👇
 
 ##### Mandatory Variables
 
